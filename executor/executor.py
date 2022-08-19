@@ -1,3 +1,4 @@
+import cv2
 import numpy as np
 from jina import Executor, requests, DocumentArray
 
