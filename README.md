@@ -1,6 +1,6 @@
 # jina-video-chat
 
-Jina-powered multi-user video chat, to showcase how to use to build a real-time streaming solution.
+[Jina](https://github.com/jina-ai/jina)-powered multi-user video chat, to showcase how to use to build a real-time streaming solution.
 
 ![da55389b1126b937e0c1d451ac54bac9 (1)](https://user-images.githubusercontent.com/2041322/185625220-40c1f887-3be4-49df-9318-c49e0fb7365e.gif)
 
