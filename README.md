@@ -2,7 +2,7 @@
 
 Jina-powered multi-user video chat, to showcase how to use to build a real-time streaming solution.
 
-<img width="350" alt="image" src="https://user-images.githubusercontent.com/2041322/185621065-a54d185f-b4fa-4f73-8a70-e24e2b3a7c17.png">
+![da55389b1126b937e0c1d451ac54bac9 (1)](https://user-images.githubusercontent.com/2041322/185625220-40c1f887-3be4-49df-9318-c49e0fb7365e.gif)
 
 ## Prerequisites
 
