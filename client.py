@@ -40,7 +40,7 @@ def render_recv(resp):
 from jina import Client
 from docarray import Document
 
-c = Client(host='grpc://192.168.178.31:56123')
+c = Client(host=server_address)
 c.post(
     '/',
     Document.generator_from_webcam(tags={'user': user}, show_window=False, height_width=(200, 300)),
