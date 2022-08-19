@@ -1,6 +1,8 @@
-# video-chat
+# jina-video-chat
 
 Jina-powered multi-user video chat, to showcase how to use to build a real-time streaming solution.
+
+Or you can call it **_Joom_**!
 
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/2041322/185621065-a54d185f-b4fa-4f73-8a70-e24e2b3a7c17.png">
 
