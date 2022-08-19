@@ -17,6 +17,8 @@ pip install -U jina docarray
 Server **doesn't need** a webcam of course.
 
 ```bash
+git clone https://github.com/hanxiao/video-chat.git
+cd video-chat
 jina flow --uses flow.yml
 ```
 
@@ -28,6 +30,9 @@ Note down the server address:
 
 ```bash
 pip install opencv-python
+
+git clone https://github.com/hanxiao/video-chat.git
+cd video-chat
 python client.py grpcs://your-server-address-from-last-image johannes
 ```
 
