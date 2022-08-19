@@ -1,0 +1,6 @@
+jtype: VideoChatExecutor
+py_modules:
+  - executor.py
+metas:
+  name: video-conference
+  description: aggregates everyone's frame into one doc
