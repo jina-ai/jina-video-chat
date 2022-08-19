@@ -1,4 +1,4 @@
-# video-chat
+# jina-video-chat
 
 Jina-powered multi-user video chat, to showcase how to use to build a real-time streaming solution.
 
