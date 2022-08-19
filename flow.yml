@@ -1,5 +1,5 @@
 jtype: Flow
 executors:
   - uses: executor/config.yml
-    name: frame_agg
+    name: frameAggregator
 
